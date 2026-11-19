@@ -1,0 +1,66 @@
+﻿Alkioita;Lähtöjärjestys;Menetelmä;Toistoja;Mediaani (ms);Minimi (ms);Maksimi (ms);Tila
+10000;Satunnainen;InsertionSort;7;6,667800;5,541400;8,049400;Mitattu
+10000;Satunnainen;BubbleSort;7;37,637600;36,234700;39,007600;Mitattu
+10000;Satunnainen;ShellSort;7;0,867000;0,783100;1,337900;Mitattu
+10000;Satunnainen;QuickSort;7;0,672000;0,646600;1,117300;Mitattu
+10000;Satunnainen;MergeSort;7;0,976300;0,932500;1,277100;Mitattu
+10000;Satunnainen;Optimoitu MergeSort;7;0,858800;0,829200;0,992300;Mitattu
+10000;Satunnainen;Arrays.sort();7;0,529100;0,470500;0,570100;Mitattu
+100000;Satunnainen;InsertionSort;7;814,507700;688,279000;847,453300;Mitattu
+100000;Satunnainen;BubbleSort;7;12279,071800;11342,348800;12536,964300;Mitattu
+100000;Satunnainen;ShellSort;7;12,519400;10,499500;14,334900;Mitattu
+100000;Satunnainen;QuickSort;7;8,930600;8,018800;10,142000;Mitattu
+100000;Satunnainen;MergeSort;7;13,170300;11,683200;14,278200;Mitattu
+100000;Satunnainen;Optimoitu MergeSort;7;11,655900;10,917300;15,429100;Mitattu
+100000;Satunnainen;Arrays.sort();7;7,881800;7,163300;8,298700;Mitattu
+1000000;Satunnainen;InsertionSort;0;;;;Ohitettu
+1000000;Satunnainen;BubbleSort;0;;;;Ohitettu
+1000000;Satunnainen;ShellSort;7;165,473400;151,752800;183,163100;Mitattu
+1000000;Satunnainen;QuickSort;7;108,666400;99,787300;114,624800;Mitattu
+1000000;Satunnainen;MergeSort;7;138,603000;122,463500;149,813800;Mitattu
+1000000;Satunnainen;Optimoitu MergeSort;7;143,297400;139,687100;150,630200;Mitattu
+1000000;Satunnainen;Arrays.sort();7;79,614600;73,162500;93,858900;Mitattu
+10000;Nouseva;InsertionSort;7;0,012800;0,008900;0,014500;Mitattu
+10000;Nouseva;BubbleSort;7;20,787500;19,859900;23,631500;Mitattu
+10000;Nouseva;ShellSort;7;0,116100;0,095300;0,175300;Mitattu
+10000;Nouseva;QuickSort;7;0,196300;0,178400;0,336000;Mitattu
+10000;Nouseva;MergeSort;7;0,496400;0,411200;0,780400;Mitattu
+10000;Nouseva;Optimoitu MergeSort;7;0,390900;0,307700;0,512700;Mitattu
+10000;Nouseva;Arrays.sort();7;0,007700;0,004400;0,009900;Mitattu
+100000;Nouseva;InsertionSort;7;0,082900;0,075900;0,134000;Mitattu
+100000;Nouseva;BubbleSort;7;2615,068700;2078,156400;2852,471900;Mitattu
+100000;Nouseva;ShellSort;7;1,414400;1,185500;2,084700;Mitattu
+100000;Nouseva;QuickSort;7;2,978100;2,210900;3,262600;Mitattu
+100000;Nouseva;MergeSort;7;5,817700;3,238200;7,878600;Mitattu
+100000;Nouseva;Optimoitu MergeSort;7;4,254500;3,504000;5,288500;Mitattu
+100000;Nouseva;Arrays.sort();7;0,043800;0,037500;0,064900;Mitattu
+1000000;Nouseva;InsertionSort;7;1,228700;0,900400;1,361900;Mitattu
+1000000;Nouseva;BubbleSort;0;;;;Ohitettu
+1000000;Nouseva;ShellSort;7;18,156900;16,178200;22,601800;Mitattu
+1000000;Nouseva;QuickSort;7;33,934300;28,622900;38,258200;Mitattu
+1000000;Nouseva;MergeSort;7;49,450900;43,045700;80,245500;Mitattu
+1000000;Nouseva;Optimoitu MergeSort;7;57,503600;48,104200;64,343900;Mitattu
+1000000;Nouseva;Arrays.sort();7;0,491600;0,446500;1,635800;Mitattu
+10000;Laskeva;InsertionSort;7;11,636400;11,050000;14,746100;Mitattu
+10000;Laskeva;BubbleSort;7;31,566800;30,740800;32,962800;Mitattu
+10000;Laskeva;ShellSort;7;0,186100;0,137000;0,235900;Mitattu
+10000;Laskeva;QuickSort;7;0,236600;0,228300;0,483700;Mitattu
+10000;Laskeva;MergeSort;7;0,478400;0,377100;0,669500;Mitattu
+10000;Laskeva;Optimoitu MergeSort;7;0,314900;0,291100;0,542100;Mitattu
+10000;Laskeva;Arrays.sort();7;0,013900;0,010100;0,091400;Mitattu
+100000;Laskeva;InsertionSort;7;1485,351500;1199,065200;1632,458000;Mitattu
+100000;Laskeva;BubbleSort;7;3513,092900;3169,214600;3639,488000;Mitattu
+100000;Laskeva;ShellSort;7;1,826600;1,762700;3,495800;Mitattu
+100000;Laskeva;QuickSort;7;2,846300;2,280000;4,372300;Mitattu
+100000;Laskeva;MergeSort;7;5,636100;3,234400;9,460800;Mitattu
+100000;Laskeva;Optimoitu MergeSort;7;4,787400;3,676700;5,174200;Mitattu
+100000;Laskeva;Arrays.sort();7;0,096400;0,090500;0,167600;Mitattu
+1000000;Laskeva;InsertionSort;0;;;;Ohitettu
+1000000;Laskeva;BubbleSort;0;;;;Ohitettu
+1000000;Laskeva;ShellSort;7;31,231800;23,897600;36,318400;Mitattu
+1000000;Laskeva;QuickSort;7;36,332700;31,355700;40,485000;Mitattu
+1000000;Laskeva;MergeSort;7;55,267800;41,619000;74,165200;Mitattu
+1000000;Laskeva;Optimoitu MergeSort;7;56,098800;50,245200;64,640200;Mitattu
+1000000;Laskeva;Arrays.sort();7;1,294200;0,906200;1,724600;Mitattu
+1000000;Yksi arvo;QuickSort;7;3,528000;2,347200;4,054600;Mitattu
+1000000;Kahdeksan arvoa;QuickSort;7;8,522400;6,719800;9,494900;Mitattu
